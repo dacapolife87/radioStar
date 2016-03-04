@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Main_Index </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+	<table border=1 cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="1024" height="200" colspan=3>»ó´Ü
+		</td>
+	</tr>
+	<tr>
+		<td width="200" height=1000>¿ÞÆí
+		</td>
+		<td width="624" height=1000>Áß¾Ó
+		</td>
+		<td width="200" height=1000>¿À¸¥Æí
+			<script type = "text/javascript" src="Naver.js"></script>
+			<div id="list"></div>
+		</td>
+	</tr>
+	</table>
+ </BODY>
+</HTML>
